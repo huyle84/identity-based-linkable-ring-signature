@@ -1,1 +1,0 @@
-# identity-based-linkable-ring-signature
